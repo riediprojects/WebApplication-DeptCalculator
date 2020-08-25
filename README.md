@@ -33,6 +33,9 @@
     <p>With the Dept Calculator 3000 you can fairly divide the financial expenses incurred in a household between
         residents. Members can quickly and easily capture their purchases, paid bills or other expenses, and see who
         owes whom how much at once.</p>
+    
+<h4>Demo Video</h4>
+https://youtu.be/W00JffbedFU
 
 </section>
 
