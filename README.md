@@ -9,16 +9,14 @@
 
 
 
-<section id="about">
-    <h3>About</h3>
-    <hr>
+
+## About
+    
     <img src="images/logo.png" alt="No logo foundet"/>
-    <h4>A Useful Tool</h4>
-    <p>With the Dept Calculator 3000 you can fairly divide the financial expenses incurred in a household between
-        residents. Members can quickly and easily capture their purchases, paid bills or other expenses, and see who
-        owes whom how much at once.</p>
-
-
+ #### A Useful Tool
+  With the Dept Calculator 3000 you can fairly divide the financial expenses incurred in a household between
+  residents. Members can quickly and easily capture their purchases, paid bills or other expenses, and see who
+  owes whom how much at once.
 
 
 ## Features
@@ -50,11 +48,11 @@ If you are in the plus, your money bubble automatically turns green, otherwise i
 
 
 ## Login Informations
-    <p>The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
+   The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
         can also access
         the database provided by Scaffold UI.<br>
         Initially, the following three users are available:
-    </p>
+   
 
     <table>
         <thead>
@@ -85,15 +83,12 @@ If you are in the plus, your money bubble automatically turns green, otherwise i
     </table>
 
 
-</section>
 
-<footer>
-    <p>
+
+
+ 
         &copy; 2019 Manuel Riedi
-    </p>
-</footer>
-
-</body>
+    
 
 
 
