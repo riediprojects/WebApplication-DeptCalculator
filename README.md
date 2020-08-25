@@ -62,11 +62,11 @@ https://youtu.be/W00JffbedFU
      <img src="images/allDepts.png" alt="No logo foundet"/>
        <p>Keep an eye on who, by whom, how much debt has.</p>
 
- <h4>Super Fast Inputs</h4>
+ <h4>Fast Inputs</h4>
     <img src="images/newExpense6.png" alt="No logo foundet"/>
     <p>Fast entry via an input mask.</p>
 
- <h4>Fully Mobile Responsive</h4>
+ <h4>Mobile Responsive</h4>
         <img src="images/mobileresponsive3.png" alt="No logo foundet"/>
         <p>To record expenses directly during a purchase, the entire application can also be operated on the smart
             phone.</p>
