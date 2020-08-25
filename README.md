@@ -25,6 +25,9 @@
 </header>
 
 
+</br>
+
+
 <section id="about">
     <h3>About</h3>
     <hr>
@@ -39,6 +42,8 @@ https://youtu.be/W00JffbedFU
 
 </section>
 
+
+</br>
 
 <section id="features">
     <h3>Features</h3>
@@ -69,12 +74,14 @@ https://youtu.be/W00JffbedFU
   </div>
 </section>
 
+
+
 <section id="login">
-    <h3>Login Informations</h3>
-    <p>The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
-        can also access
-        the database provided by Scaffold UI.<br>
-        Initially, the following three users are available:
+   <h3>Login Informations</h3>
+   <p>The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
+      can also access
+      the database provided by Scaffold UI.<br>
+      Initially, the following three users are available:
   </p>
 
   <table>
