@@ -2,12 +2,11 @@
 # Introduction Debt Calculator
 
 
-        <img src="images/logo.png" alt="No logo foundet"/>
+ <img src="images/logo.png" alt="No logo foundet"/>
 
 
 
 
-    <h1>Debt Calculator 3000</h1>
 
 
 <section id="about">
@@ -19,40 +18,38 @@
         residents. Members can quickly and easily capture their purchases, paid bills or other expenses, and see who
         owes whom how much at once.</p>
 
-</section>
 
 
-<section id="features">
-    <h3>Features</h3>
-    <hr>
-    <div id="projects">
-        <h4>Your Depts Always Visible</h4>
+
+## Features
+
+
+### Your Depts Always Visible
         <img src="images/myMoney.png" alt="No logo foundet"/>
-        <p>Your personal finances are always visible on the left side. <br>
-            If you are in the plus, your money bubble automatically turns green, otherwise it turns red..</p>
+Your personal finances are always visible on the left side. <br>
+If you are in the plus, your money bubble automatically turns green, otherwise it turns red..</p>
 
-        <h4>Get An Overview Of All Expenses</h4>
+### Get An Overview Of All Expenses
         <img src="images/allexpenses.png" alt="No logo foundet"/>
-        <p>See an overview of all issues at any time. Wrong issues can be easily deleted from here.</p>
+        See an overview of all issues at any time. Wrong issues can be easily deleted from here.
 
-        <h4>See all debts at a glance</h4>
+### See all debts at a glance
         <img src="images/allDepts.png" alt="No logo foundet"/>
-        <p>Keep an eye on who, by whom, how much debt has.</p>
+        Keep an eye on who, by whom, how much debt has.
 
-        <h4>Super Fast Inputs</h4>
+### Super Fast Inputs
         <img src="images/newExpense6.png" alt="No logo foundet"/>
-        <p>Fast entry via an input mask.</p>
+        Fast entry via an input mask.
 
-        <h4>Fully Mobile Responsive</h4>
+### Fully Mobile Responsive
         <img src="images/mobileresponsive3.png" alt="No logo foundet"/>
-        <p>To record expenses directly during a purchase, the entire application can also be operated on the smart
-            phone.</p>
+        To record expenses directly during a purchase, the entire application can also be operated on the smart
+            phone.
 
-    </div>
-</section>
 
-<section id="login">
-    <h3>Login Informations</h3>
+
+
+## Login Informations
     <p>The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
         can also access
         the database provided by Scaffold UI.<br>
