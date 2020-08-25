@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +11,7 @@
 <body>
 
 <header>
-# Introduction Debt Calculator
+
     <div id="logo">
         <img src="images/logo.png" alt="No logo foundet"/>
     </div>
@@ -103,8 +104,8 @@
             <td>User</td>
         </tr>
 
-        </tbody>
-    </table>
+  </tbody>
+  </table>
 
 
 </section>
