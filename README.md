@@ -1,4 +1,4 @@
-
+# Dept Calculator
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,9 +12,6 @@
 
 <header>
 
-    <div id="logo">
-        <img src="images/logo.png" alt="No logo foundet"/>
-    </div>
 
  <nav id="main-nav">
         <ul>
