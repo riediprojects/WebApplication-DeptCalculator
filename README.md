@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Introduction Debt Calculator</title>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="index.css"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto:500&display=swap" rel="stylesheet">
@@ -11,6 +10,7 @@
 <body>
 
 <header>
+# Introduction Debt Calculator
     <div id="logo">
         <img src="images/logo.png" alt="No logo foundet"/>
     </div>
