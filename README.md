@@ -1,4 +1,3 @@
-# Dept Calculator
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +23,7 @@
 </header>
 
 <section id="home">
-    <h1>Debt Calculator 3000</h1>
+    <h1>Introduction Debt Calculator 3000</h1>
 </section>
 
 <section id="about">
