@@ -1,0 +1,92 @@
+body {
+    margin: 15px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 900px; /* or 950px */
+}
+
+.navbarBorder {
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #009EE2;
+}
+
+.sideInfoSpaces {
+    padding: 16px;
+}
+
+/*
+ **Buttons
+*/
+.btn-danger {
+    background-color: #ff4b55;
+    border-color: #ff4b55;
+}
+
+.btn-light:hover {
+    background-color: #ff4b55;
+    border-color: #ff4b55;
+}
+
+.footer {
+    background-color: #F8F9FA;
+    text-align: center;
+}
+
+.selectBar {
+    overflow: hidden;
+}
+
+/*
+ **Visual Money appearance
+*/
+.visualValues {
+    border-radius: 25px;
+    padding: 12px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.visualValues.positive {
+    background: #2ecc71;
+}
+
+.visualValues.negative {
+    background: #ff4b55;
+}
+
+.visualValues.neutral {
+    background: #f6f6f7;
+}
+
+/*
+** Fonts
+ */
+.smallTextes {
+    color: #6c757d;
+}
+
+.fontBasic {
+    font-family: Arial;
+}
+
+.fontBasic.deptName {
+    font-size: 20px;
+    padding-top: 9px;
+}
+
+.errorMessage {
+    color: #ff4b55;
+}
+
+/*
+** Fonts
+ */
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #FAFAFA;
+}
+
