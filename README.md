@@ -30,6 +30,7 @@
 
 <section id="about">
     <hr>
+    </br>
     <h3>About</h3>
     <img src="images/logo.png" alt="No logo foundet"/>
     <h4>A Useful Tool</h4>
@@ -81,6 +82,7 @@ Java, Grails, Bootstrap, HTML, CSS, Intelij
 
 <section id="login">
       <hr>
+    </br>
    <h3>Login Informations</h3>
    <p>The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
       can also access
