@@ -40,6 +40,11 @@
 <h4>Demo Video</h4>
 https://youtu.be/W00JffbedFU
 
+<h4>Creator</h4>
+Manuel Riedi
+
+
+
 </section>
 
 
