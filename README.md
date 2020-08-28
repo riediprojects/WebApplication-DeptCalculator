@@ -50,6 +50,7 @@ Java, Grails, Bootstrap, HTML, CSS, Intelij
 
 <section id="features">
       <hr>
+     </br>
     <h3>Features</h3>
     <div id="projects">
         <h4>Depts Always Visible</h4>
