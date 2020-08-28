@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="No logo foundet"/>
     <h4>A Useful Tool</h4>
     <p>With the Dept Calculator 3000 you can fairly divide the financial expenses incurred in a household between
-        residents. Members can quickly and easily capture their purchases, paid bills or other expenses, and see who
+        residents. Members can easily capture their purchases, paid bills or other expenses, and see who
         owes whom how much at once.</p>
     
 <h4>Demo Video</h4>
@@ -49,7 +49,7 @@ https://youtu.be/W00JffbedFU
     <h3>Features</h3>
     <hr>
     <div id="projects">
-        <h4>Your Depts Always Visible</h4>
+        <h4>Depts Always Visible</h4>
         <img src="images/myMoney.png" alt="No logo foundet"/>
         <p>Your personal finances are always visible on the left side. <br>
             If you are in the plus, your money bubble automatically turns green, otherwise it turns red..</p>
@@ -73,7 +73,6 @@ https://youtu.be/W00JffbedFU
 
   </div>
 </section>
-
 
 
 <section id="login">
