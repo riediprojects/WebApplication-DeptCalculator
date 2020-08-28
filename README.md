@@ -29,8 +29,8 @@
 
 
 <section id="about">
-    <h3>About</h3>
     <hr>
+    <h3>About</h3>
     <img src="images/logo.png" alt="No logo foundet"/>
     <h4>A Useful Tool</h4>
     <p>With the Dept Calculator 3000 you can fairly divide the financial expenses incurred in a household between
@@ -49,8 +49,8 @@ Java, Grails, Bootstrap, HTML, CSS, Intelij
 
 
 <section id="features">
+      <hr>
     <h3>Features</h3>
-    <hr>
     <div id="projects">
         <h4>Depts Always Visible</h4>
         <img src="images/myMoney.png" alt="No logo foundet"/>
@@ -79,6 +79,7 @@ Java, Grails, Bootstrap, HTML, CSS, Intelij
 
 
 <section id="login">
+      <hr>
    <h3>Login Informations</h3>
    <p>The application is secured by Spring Security. <br> There are two types of roles: Admin or User. As an Admin you
       can also access
