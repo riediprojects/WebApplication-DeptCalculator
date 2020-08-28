@@ -43,12 +43,10 @@ https://youtu.be/W00JffbedFU
 <h4>Creator</h4>
 Manuel Riedi
 
-
-
+<h4>Technologies</h4>
+Java, Grails, Bootstrap, HTML, CSS, Intelij
 </section>
 
-
-</br>
 
 <section id="features">
     <h3>Features</h3>
